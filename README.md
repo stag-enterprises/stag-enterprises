@@ -7,6 +7,7 @@ note that all forks (not included here) start with `PATCHED-`
 | active              | `                                                 ` |
 |:--------------------|-----------------------------------------------------|
 | [stag-enterprises]  | what you're looking at                              |
+| [pk.]               | [pk.stag.lol] source                                |
 | **idle**            | `                                                 ` |
 | [walkthrough]       | run shell scripts that might go wrong               |
 | **done**            | `                                                 ` |
@@ -16,6 +17,8 @@ note that all forks (not included here) start with `PATCHED-`
 | ~~[js]~~            | random js utility things                            |
 
 [stag-enterprises]:  https://github.com/stag-enterprises/stag-enterprises
+[pk.]:               https://github.com/stag-enterprises/pk.
+[pk.stag.lol]:       https://pk.stag.lol
 [walkthrough]:       https://github.com/stag-enterprises/walkthrough
 [codespaces-debian]: https://github.com/stag-enterprises/codespaces-debian
 [fontchanger]:       https://github.com/stag-enterprises/fontchanger
