@@ -4,20 +4,23 @@
 
 note that all forks (not included here) start with `PATCHED-`
 
-| active              | `                                                 ` |
-|:--------------------|-----------------------------------------------------|
-| [stag-enterprises]  | what you're looking at                              |
-| [pk.]               | [pk.stag.lol] source                                |
-| **idle**            | `                                                 ` |
-| [walkthrough]       | run shell scripts that might go wrong               |
-| **done**            | `                                                 ` |
-| [codespaces-debian] | make a debian (rather than ubuntu) github codespace |
-| [fontchanger]       | userscript to change fonts on some sites            |
-| **archived**        | `                                                 ` |
-| ~~[js]~~            | random js utility things                            |
+| active               | `                                                 ` |
+|:---------------------|-----------------------------------------------------|
+| [stag-enterprises]   | what you're looking at                              |
+| [pk.]                | [pk.stag.lol] source                                |
+| [pk._pub]            | [pk.stag.lol] content source                        |
+| **idle**             | `                                                 ` |
+| [walkthrough]        | run shell scripts that might go wrong               |
+| **done**             | `                                                 ` |
+| [codespaces-debian]  | make a debian (rather than ubuntu) github codespace |
+| [devcontainer-gleam] | gleam lang devcontainer
+| [fontchanger]        | userscript to change fonts on some sites            |
+| **archived**         | `                                                 ` |
+| ~~[js]~~             | random js utility things                            |
 
 [stag-enterprises]:  https://github.com/stag-enterprises/stag-enterprises
 [pk.]:               https://github.com/stag-enterprises/pk.
+[pk._pub]:           https://github.com/stag-enterprises/pk._pub
 [pk.stag.lol]:       https://pk.stag.lol
 [walkthrough]:       https://github.com/stag-enterprises/walkthrough
 [codespaces-debian]: https://github.com/stag-enterprises/codespaces-debian
