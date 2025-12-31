@@ -13,7 +13,6 @@ note that all forks (not included here) start with `PATCHED-`
 | [walkthrough]        | run shell scripts that might go wrong               |
 | **done**             | `                                                 ` |
 | [codespaces-debian]  | make a debian (rather than ubuntu) github codespace |
-| [devcontainer-gleam] | gleam lang devcontainer
 | [fontchanger]        | userscript to change fonts on some sites            |
 | **archived**         | `                                                 ` |
 | ~~[js]~~             | random js utility things                            |
@@ -26,4 +25,3 @@ note that all forks (not included here) start with `PATCHED-`
 [codespaces-debian]: https://github.com/stag-enterprises/codespaces-debian
 [fontchanger]:       https://github.com/stag-enterprises/fontchanger
 [js]:                https://github.com/stag-enterprises/js
-
